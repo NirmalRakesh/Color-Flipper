@@ -37,3 +37,16 @@ button{
     letter-spacing: 5px;
     cursor:pointer;
 }
+
+
+@media screen and (max-width:600px){
+    #btn{
+        padding: 5px 10px;
+        font-size: 18px;
+        background: green;
+    } body{
+        font-size: 18px;
+    }
+    #heading{font-size: 19px;
+    color: blue;}
+} 
